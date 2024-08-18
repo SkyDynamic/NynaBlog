@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Alibaba PuHuiTi";
+    src: url("font/AlibabaPuHuiTi-2-75-SemiBold.otf");
+}
+
+body {
+    font-family: "Alibaba PuHuiTi", sans-serif;
+}
