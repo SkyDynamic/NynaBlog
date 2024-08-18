@@ -1,9 +1,15 @@
 ---
 title: 无需安装SSL证书抓取国服舞萌和中二成绩
 data: 2024/08/18 12:00:00
+updated: 2024/08/18 16:55:00
 categories:
   - "技术"
   - "Kotlin"
+tags: 
+  - "Maimai"
+  - "Chunithm"
+  - "音游"
+  - "查分"
 cover: https://moegirl.uk/images/4/43/Maimai_DX_BUDDiES_%E5%9B%BE%E6%A0%87.png
 ---
 
