@@ -9,7 +9,7 @@ tags:
   - "Bilibili"
   - "Minecraft"
   - "直播"
-cover: https://i2.imgs.ovh/d/BQACAgUAAx0EUvSR8wACMw1myHjxsW6CQIZQXIRjXRgHhY5HTAACkBAAAoX-SVYF5Lm_oHMQQTUE
+cover: https://s2.loli.net/2024/09/07/WFTB6s35EJ782P4.jpg
 ---
 
 <div align="center">

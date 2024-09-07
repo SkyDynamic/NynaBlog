@@ -10,12 +10,8 @@ tags:
   - "Chunithm"
   - "音游"
   - "查分"
-cover: https://moegirl.uk/images/4/43/Maimai_DX_BUDDiES_%E5%9B%BE%E6%A0%87.png
+cover: https://s2.loli.net/2024/09/07/wlqkTErBiKf2jMm.png
 ---
-
-<div align=center>
-    <img src="https://moegirl.uk/images/4/43/Maimai_DX_BUDDiES_%E5%9B%BE%E6%A0%87.png" alt="headImg">
-</div>
 
 <div align="center">
 
