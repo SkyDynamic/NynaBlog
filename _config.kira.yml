@@ -24,9 +24,9 @@ menu:
   关于本人:
     - /about.html
     - icon-user
-#  我的朋友:
-#    - /friends.html
-#    - icon-team
+  友链:
+    - /friends.html
+    - icon-team
 
 widgets:
   - social
