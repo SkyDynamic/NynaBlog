@@ -120,6 +120,17 @@ friends:
 # - avatar: <友链缩略图>
 #   link: <跳转连接>
 #   name: <名称>
+  - avatar: img/friends/116019368.jpg
+    link: https://main.moerain.cn
+    name: MoeRain
+
+  - avatar: img/friends/koi.png
+    link: https://lemonkoi.one/
+    name: Koi✨~
+
+  - avatar: https://assets.msdnicrosoft.work/img/avatar.webp
+    link: https://msdnicrosoft.work
+    name: MSDNicrosoft
 
 # 可复制的代码块
 copyableCodeblock: true
